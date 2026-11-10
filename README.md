@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-CLM-API-Gateway-Connectors/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-CLM-API-Gateway-Connectors?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-CLM-API-Gateway-Connectors/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-CLM-API-Gateway-Connectors?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-CLM-API-Gateway-Connectors/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-CLM-API-Gateway-Connectors?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-CLM-API-Gateway-Connectors/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-CLM-API-Gateway-Connectors?style=flat-square&color=green" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-CLM-API-Gateway-Connectors/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -97,7 +97,7 @@ Curated list of commercial enterprise iPaaS and hosted gateway connectors, **sor
 
 Curated open-source API gateways, reverse proxies, and workflow automation frameworks suitable for self-hosting CLM data orchestration pipelines, **sorted descending by GitHub stargazers**:
 
-| Project | ⭐ Stars | 📜 License | 💡 Description |
+| Project | ⭐ GitHub_Stars | 📜 License | 💡 Description |
 |---|---|---|---|
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Fair-code (Sustainable Use) | Fair-code workflow automation tool with 400+ native integrations, webhook routing, and built-in AI agents. Ideal for self-hosting complete CLM event-driven pipelines. |
 | **[Traefik](https://github.com/traefik/traefik)** | [![Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | MIT | Modern HTTP reverse proxy and cloud-native API gateway with automatic discovery, dynamic TLS certificate handling, and middleware for microservice-backed CLM architectures. |
@@ -152,7 +152,7 @@ Contributions are warmly welcomed! Help make this ecosystem resource comprehensi
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-connector`.
-3. 📝 **Add or edit entries in `README.md`**: Follow the structured format (include vendor/project, verified pricing or star badge, and factual description).
+3. 📝 **Add or edit entries in `README.md`**: Follow the structured format (include vendor/project, verified pricing or Stars_Badge, and factual description).
 4. ✅ **Validate links and markdown syntax**.
 5. 🚀 **Submit a Pull Request** with a concise description of what you've added or corrected.
 
