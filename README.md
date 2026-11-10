@@ -1,6 +1,6 @@
 # Awesome-CLM-API-Gateway-Connectors
 
-# Top CLM API Gateway & Connectors Ecosystem
+## Top CLM API Gateway & Connectors Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Contract Lifecycle Integration, API Orchestration & Enterprise Connectivity*  
